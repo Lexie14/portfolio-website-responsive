@@ -108,6 +108,7 @@ a:hover {
 }
 
 .project {
+	width: 33%;
 	background: linear-gradient(-90deg, #959597, #f4f5f7);
 	margin: 0 10px 20px;
 	border: solid #878787 1px;
