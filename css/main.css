@@ -238,7 +238,7 @@ footer {
 	.skillsList {
 		margin-top: -2vw;
 		margin-bottom: 0;
-		padding-left: 7vw;
+		padding-left: 3vw;
 		padding-right: 0;
 		text-align: center;
 	}
@@ -247,7 +247,7 @@ footer {
 		display: inline;
 		font-size: 12px;
 		margin-left: 0;
-		margin-right: 7vw;
+		margin-right: 4vw;
 	}
 
 	i {
