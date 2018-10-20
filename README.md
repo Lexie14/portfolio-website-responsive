@@ -1,5 +1,5 @@
 # portfolio-website-responsive
 
-Simple portfolio web-page with links to my very first projects ;) All the elements of the page are highly responsive.
+Simple portfolio web-page (HTML5, CSS3) with the links to some of my projects. The web-page is optimized across different viewport sizes via using flex-box, media-queries and responsive images.
 
 You can access it here https://lexie14.github.io/portfolio-website-responsive/
